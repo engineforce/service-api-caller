@@ -1,6 +1,6 @@
 {
   "name": "@engineforce/service-api-caller",
-  "version": "0.0.7-alpha.0",
+  "version": "0.0.7",
   "description": "Call service API",
   "main": "./dist/index.js",
   "author": "Paul Li",
@@ -11,13 +11,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "@engineforce/aws-lambda-helpers": "git+ssh://git@github.com/engineforce/aws-lambda-helpers.git#v0.0.11-alpha.0",
+    "@engineforce/aws-lambda-helpers": "git+ssh://git@github.com/engineforce/aws-lambda-helpers.git#v0.0.11",
     "aws-sdk": "^2.296.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
-    "@engineforce/build-config": "git+ssh://git@github.com/engineforce/build-config.git#v0.0.2-alpha.0",
+    "@engineforce/build-config": "git+ssh://git@github.com/engineforce/build-config.git#v0.0.2",
     "@types/jest": "^23.3.2",
     "@types/node": "^10.9.4",
     "babel-core": "^7.0.0-bridge.0",
