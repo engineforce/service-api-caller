@@ -11,13 +11,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "@engineforce/aws-lambda-helpers": "^0.0.10",
+    "@engineforce/aws-lambda-helpers": "git+ssh://git@github.com:engineforce/aws-lambda-helpers.git#v0.0.10",
     "aws-sdk": "^2.296.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
-    "@engineforce/build-config": "^0.0.1",
+    "@engineforce/build-config": "git+ssh://git@github.com:engineforce/build-config.git#v0.0.1",
     "@types/jest": "^23.3.2",
     "@types/node": "^10.9.4",
     "babel-core": "^7.0.0-bridge.0",
