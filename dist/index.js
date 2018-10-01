@@ -107,7 +107,7 @@ module.exports = require("aws-sdk");
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/pongli/my/git/engineforce/libs/packages/service-api-caller/index.js */2);
+module.exports = __webpack_require__(/*! /Users/pli/my/git/engineforce/libs/packages/service-api-caller/index.js */2);
 
 
 /***/ }),
