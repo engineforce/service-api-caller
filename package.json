@@ -1,6 +1,6 @@
 {
   "name": "@engineforce/service-api-caller",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Call service API",
   "main": "./dist/index.js",
   "author": "Paul Li",
@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@engineforce/aws-lambda-helpers": "github:engineforce/aws-lambda-helpers#v0.0.12",
+    "@engineforce/aws-lambda-helpers": "github:engineforce/aws-lambda-helpers#v0.0.13",
     "aws-sdk": "^2.296.0",
     "lodash": "^4.17.10"
   },
