@@ -18,13 +18,13 @@
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@engineforce/build-config": "engineforce/build-config#v0.0.2",
-    "@types/jest": "^23.3.2",
+    "@types/jest": "^24.0.0",
     "@types/node": "^10.9.4",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-jest": "^23.4.2",
-    "jest": "^23.5.0",
-    "poi": "^10.2.10",
-    "regenerator-runtime": "^0.12.1",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "poi": "^12.5.5",
+    "regenerator-runtime": "^0.13.1",
     "typescript": "^3.0.3"
   }
 }
